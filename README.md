@@ -3,7 +3,7 @@
 Meu nome é ⚡ Jacinto Michael! Seja bem vindo ao meu `README.md` (this file).
 
 🔭 Projetos em execução:
-- **Aplicação WEB usando motor de IA**, com finalidade de análisar leis e documentos, sugerir melhorias e gerar outros modelos de documentos institucionais personalizados, a partir de legislação e modelos de documentos feitos _upload_.
+- [_Repositório Privado_] **Aplicação WEB usando motor de IA**, com finalidade de análisar leis e documentos, sugerir melhorias e gerar outros modelos de documentos institucionais personalizados, a partir de legislação e modelos de documentos feitos _upload_.
 (*Diferenciais: Minimização de erros, como possíveis saída de escopo e alucinações pela IA e utilização de contexto personalizado, com controle de versionamento e histórico.*)
 
 🌱 Atualmente estou estudando:
