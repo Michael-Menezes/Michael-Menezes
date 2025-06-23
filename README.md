@@ -1,6 +1,6 @@
 ## 👋 Olá, tudo bem?! 
 
-Meu nome é ⚡ Jacinto Michael! Seja bem vindo ao meu `README.md` (this file).
+Meu nome é ⚡ Jacinto Michael! Seja bem vindo ao meu `perfil`.
 
 🔭 Projetos em construção:
 - [_Repositório Privado_] **Aplicação WEB usando motor de IA**, com finalidade de análisar leis e documentos, sugerir melhorias e gerar outros modelos de documentos institucionais personalizados, a partir de legislação e modelos de documentos feitos _upload_.
