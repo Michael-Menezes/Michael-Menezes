@@ -4,7 +4,9 @@ Meu nome é ⚡ Jacinto Michael! Seja bem vindo ao meu `perfil`.
 
 🔭 Projetos em construção:
 - [_Repositório Privado_] **Aplicação WEB usando motor de IA**, com finalidade de análisar leis e documentos, sugerir melhorias e gerar outros modelos de documentos institucionais personalizados, a partir de legislação e modelos de documentos feitos _upload_.
-(*Diferenciais: Minimização de erros, como possíveis saída de escopo e alucinações pela IA e utilização de contexto personalizado, com controle de versionamento e histórico.*)
+(*Diferenciais: Minimização de erros, como possíveis saída de escopo e alucinações pela IA e utilização de contexto personalizado, com controle de versionamento e histórico.*).
+- [_Repositório Privado_] **Aplicação WEB**, com finalidade de calcular a escala de Malinas, a fim de servir como ferramenta de avaliação para urgências obstétricas em atendimento pré-hospitalar (SAMU)
+(*Diferenciais: Minimização de erros com calculos, definição de variáveis com explicação do calculo e glosário disponível, fácil acesso e armazenamento de histórico das avaliações realizadas.*)
 
 🌱 Atualmente estou estudando:
 - Conteúdo para a certificação em dados da Microsoft PL-300;
