@@ -12,7 +12,7 @@ Meu nome é ⚡ **Jacinto Michael**! Seja bem vindo ao meu `perfil`.
 - [_Repositório Privado_] **Painel dados usando Python (Streamlit)**, com finalidade de servir como ferramenta de monitoramento das atividades do programa de saúde nas escolas (PSE), por parte da Secretaria de Saúde e Secretaria de Educação (ambas de Sergipe). A base de dados provém do banco de dados (postgreSQL) do centralizador estadual (dados e-sus).
 
 🌱 Atualmente estou estudando:
-- Conteúdo para a renovação da minha certificação em dados da Microsoft PL-300 (01 x certificado);
+- Conteúdo para a renovação da minha certificação em dados da Microsoft PL-300 (01 x certificado) e para a DP-600;
 - Agentes de IA (quarta camada) e Python aplicada a IA (terceira camada);
 - Engenharia de Prompt.
 
